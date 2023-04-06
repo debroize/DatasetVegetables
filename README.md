@@ -1,6 +1,6 @@
 # DatasetVegetables
 Simple Dataset of Vegetables in different arrangements. 
-One arrangement consists of seven images photographed from different viewing angles and a csv entry with metadata and the count of each vegetable and its weight.
+One arrangement consists of seven images photographed from different viewing angles and a csv entry with metadata and the count of each vegetable and its weight. (A full imageset with 1414 images of 202 arramgements is available on request)
 
 ![Sample Image](https://github.com/debroize/DatasetVegetables/blob/main/imagesVegetables_small/P7313678.JPG)
 
